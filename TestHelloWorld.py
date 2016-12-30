@@ -3,7 +3,8 @@
 def HelloWorld():
 	print "HelloWorld"
 
-#Done Foo Bar
+
+#Done
 
 
 HelloWorld()
